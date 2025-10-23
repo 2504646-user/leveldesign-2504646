@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/2504646/Documents/GitHub/leveldesign-2504646/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset",
+				"C:/Users/2504646/Documents/GitHub/leveldesign-2504646/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"C:/Users/2504646/Documents/GitHub/leveldesign-2504646/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset",
+				"C:/Users/2504646/Documents/GitHub/leveldesign-2504646/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset",
+				"C:/Users/2504646/Documents/GitHub/leveldesign-2504646/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/C6/M64Q5218VXFBFYF9HEFWRE.uasset"
+			]
+		}
+	]
+}
